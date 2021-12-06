@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyTest4</string>
+    <string name="first_fragment" />
+    <string name="two_fragment" />
+    <string name="_3_fragment" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first" />
+    <string name="two" />
+    <string name="three" />
+    <string name="this_is_stars">This is Stars</string>
+    <string name="this_is_music">This is Music</string>
+    <string name="this_is_news">This is News</string>
+</resources>

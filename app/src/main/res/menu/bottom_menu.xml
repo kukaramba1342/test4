@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="Stars"/>
+    <item
+        android:id="@+id/fragment_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="Music"/>
+    <item
+        android:id="@+id/fragment_3"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_fiber_new_24"
+        android:title="News"/>
+</menu>
