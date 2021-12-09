@@ -11,4 +11,8 @@
     <string name="this_is_stars">This is Stars</string>
     <string name="this_is_music">This is Music</string>
     <string name="this_is_news">This is News</string>
+    <string name="name_stars_and_composition">Name Stars:</string>
+    <string name="add_stars">add stars</string>
+    <string name="web_site">Web Site</string>
+    <string name="tracks">Tracks</string>
 </resources>

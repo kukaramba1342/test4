@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/drawable-v24/outline_add_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/drawable/add_icon.xml" value="0.2203125" />
+        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.2203125" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/first_fragment.xml" value="0.8355263157894737" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/fragment_end_fragment.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/fragment_first_.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/fragment_first_.xml" value="0.22" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/fragment_three_.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/fragment_two_.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/layout/stars_list_item.xml" value="0.18115942028985507" />
         <entry key="..\:/Users/kukar/AndroidStudioProjects/MyTest4/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
